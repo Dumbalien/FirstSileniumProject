@@ -33,7 +33,7 @@ public class OpenChromeBrowserTest {
     public void openMail(){
 
     }
-    @Test
+    //@Test
     public void changeLanguage(){
 
     }
